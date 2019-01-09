@@ -2,4 +2,4 @@
 
 echo "This is a very simple script for testing Jenkins"
 
-echo "Git polling ..."
+echo "Git polling ... v2"

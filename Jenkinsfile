@@ -1,6 +1,5 @@
 node{
   stage("Test"){
-    checkout scm
-    sh 'bash simple.sh'
+    println(env.GIT_BRANCH)
   }
 }
